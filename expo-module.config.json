@@ -1,0 +1,15 @@
+{
+  "platforms": ["android"],
+  "android": {
+    "modules": [
+      "expo.modules.tradplusad.ExpoModuleAdModule",
+      "expo.modules.tradplusad.ExpoBannerAdViewModule",
+      "expo.modules.tradplusad.ExpoRewardAdModule",
+      "expo.modules.tradplusad.ExpoConsentModule",
+      "expo.modules.tradplusad.ExpoSplashAdModule",
+      "expo.modules.tradplusad.ExpoInterstitialAdModule",
+      "expo.modules.tradplusad.ExpoNativeAdModule",
+      "expo.modules.tradplusad.NativeAd"
+    ]
+  }
+}
