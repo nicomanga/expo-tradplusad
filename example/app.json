@@ -31,7 +31,7 @@
     },
     "plugins": [
       ["../app.plugin.js", {
-        "androidAppId": "ca-app-pub-8637010206853096~2398739885"
+        "androidAppId": ""
       }]
     ]
   }
