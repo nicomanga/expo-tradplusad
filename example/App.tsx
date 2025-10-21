@@ -357,7 +357,7 @@ const App = () => {
 
     useEffect(() => {
         if (ExpoModule.getIsInit()) {
-            ExpoModule.initSdk('0807F46533A1818EAEDF3E483A48E604');
+            ExpoModule.initSdk('');
         }
     }, [])
 
